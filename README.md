@@ -1,15 +1,15 @@
-# blender-malnovasteamo-theme
-Priskribo: La Blendera etoso, kiu similas malnovan Steamon
-Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)
+# blender-malnovasteamo-theme  
+Priskribo: La Blendera etoso, kiu similas malnovan Steamon  
+Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)  
 
-##Instalado
+## Instalado  
 
-* Ekkopi enhavon de arkivo
-* Malfermi agordojn de Blendero (`Redakti` > `Agordoj`)
-* Transpasi al `Etosoj` sekcio
-* Premi `Instali` butonon kaj elekti *.xml dosieron
+* Ekkopi enhavon de arkivo  
+* Malfermi agordojn de Blendero (`Redakti` > `Agordoj`)  
+* Transpasi al `Etosoj` sekcio  
+* Premi `Instali` butonon kaj elekti *.xml dosieron  
 
-##Ekrankopioj
+## Ekrankopioj  
 
 ![](https://i.imgur.com/yvucGpF.png)
 ![](https://i.imgur.com/tZwBb9R.png)
