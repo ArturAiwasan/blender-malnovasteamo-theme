@@ -17,3 +17,6 @@ Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)
 ![](https://i.imgur.com/J9QMzRc.png)
 ![](https://i.imgur.com/pv08pn3.png)
 ![](https://i.imgur.com/45TIq70.png)
+
+## Kvestaĵo  
+![ЮMoney](https://yoomoney.ru/to/4100111870930873)
